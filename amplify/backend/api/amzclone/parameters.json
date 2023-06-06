@@ -1,0 +1,12 @@
+{
+  "AppSyncApiName": "amzclone",
+  "DynamoDBBillingMode": "PAY_PER_REQUEST",
+  "DynamoDBEnableServerSideEncryption": false,
+  "AuthModeLastUpdated": "2023-02-01T14:51:18.865Z",
+  "AuthCognitoUserPoolId": {
+    "Fn::GetAtt": [
+      "authamzcloneed6cb9b9",
+      "Outputs.UserPoolId"
+    ]
+  }
+}
