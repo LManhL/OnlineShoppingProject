@@ -34,13 +34,23 @@ To install and run the Online Retail Application, follow these steps:
 # App preview
 
 ![image](https://github.com/LManhL/OnlineShoppingProject/assets/95266634/6496e6fe-f9e3-44e2-bae5-e3556c9b1f83)
+
 ![image](https://github.com/LManhL/OnlineShoppingProject/assets/95266634/12c158ca-272f-464a-bda0-4cc1f746a6d7)
+
 ![image](https://github.com/LManhL/OnlineShoppingProject/assets/95266634/b126199d-4f87-4ecc-9311-b0c848943e8c)
+
 ![image](https://github.com/LManhL/OnlineShoppingProject/assets/95266634/b0ad669f-847b-45e3-8f47-c480758e8b85)
+
 ![image](https://github.com/LManhL/OnlineShoppingProject/assets/95266634/7ed2a9cc-af26-48a0-b448-d023695f484f)
+
 ![image](https://github.com/LManhL/OnlineShoppingProject/assets/95266634/5fe6f733-9248-4dc7-aac3-1e32bba83640)
+
 ![image](https://github.com/LManhL/OnlineShoppingProject/assets/95266634/67a5d50c-3aef-4866-a867-c50f21a58b97)
+
 ![image](https://github.com/LManhL/OnlineShoppingProject/assets/95266634/d9ec05ef-44d1-4974-9b93-b9529c05575f)
+
 ![image](https://github.com/LManhL/OnlineShoppingProject/assets/95266634/ff57ed91-7584-4835-a48f-9e3afb2c16e7)
+
 ![image](https://github.com/LManhL/OnlineShoppingProject/assets/95266634/2d2da8b2-a141-4690-aeb8-f26d2153b98f)
+
 ![image](https://github.com/LManhL/OnlineShoppingProject/assets/95266634/77c5a45b-bc06-4b4c-a01c-877f5c0ad979)
